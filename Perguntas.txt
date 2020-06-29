@@ -1,0 +1,24 @@
+
+PERGUNTAS PARA A ANALISE CRITICA DA APPLICAÇAO
+
+
+
+1- A visibilidade da aplicaçao esta boa? é possivel identificar todos os elementos da pagina e navegar facilmente?
+
+2- A aplicaçao esta atualizada para com o mundo atual?
+
+3- O usuario tem liberdade e controle ao usar a aplicaçao?
+
+4- A aplicacao é consistente em relacao a funcionalidades e estetica visual?
+
+5- A aplicacao faz tentativas de mitigar erros por parte do usuario?
+
+6- A aplicacao apresenta formas de reconhecimento do usuario?
+
+7- A aplicaçao apresenta opçoes que permitem o usuario experiente escolher como deseja navegar a aplicaçao?
+
+8- A aplicaçao apresente design agradavel porem minimalista?
+
+9- A aplicacao tenta diagnosticar problemas do usuario?
+
+10-A aplicacao apresenta documentaçao para sanar as duvidas fo usuario?
